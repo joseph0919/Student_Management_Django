@@ -1,4 +1,5 @@
-## Django College Management System
+## DJANGO_STUDENT_MANAGEMENT
+
 
 ---
 ### Requirments:

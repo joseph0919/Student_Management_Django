@@ -3,7 +3,7 @@
 
 ---
 ### Requirments:
-- Django 2.1 / 2.x
+- Django 2.1.7
 - Python 3.6 or higher
 
 ---

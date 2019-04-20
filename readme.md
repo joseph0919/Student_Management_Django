@@ -10,3 +10,8 @@
 Break down big problems/tasks into small application. It seems we're making applications for each small tasks like user authentication; Application for teacher, student and for others.
 
 **If this structure is wrong or I'm wrong in somewhere, please let me know.**
+
+
+<p align="center">
+  <img width="460" height="300" src="http://tareqmonwer.com/img/dpi-dash/clubs.png">
+</p>

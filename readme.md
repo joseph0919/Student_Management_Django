@@ -13,5 +13,5 @@ Break down big problems/tasks into small application. It seems we're making appl
 
 
 <p align="center">
-  <img width="700" height="500" src="http://tareqmonwer.com/img/dpi-dash/clubs.png">
+  <img width="800" height="400" src="http://tareqmonwer.com/img/dpi-dash/home.png">
 </p>

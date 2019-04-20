@@ -11,7 +11,17 @@ Break down big problems/tasks into small application. It seems we're making appl
 
 **If this structure is wrong or I'm wrong in somewhere, please let me know.**
 
+### Structure:
 
 <p align="center">
   <img width="800" height="400" src="http://tareqmonwer.com/img/dpi-dash/home.png">
 </p>
+
+<p align="center">
+  <img width="800" height="400" src="http://tareqmonwer.com/img/dpi-dash/clubs.png">
+</p>
+
+<p align="center">
+  <img width="800" height="400" src="http://tareqmonwer.com/img/dpi-dash/club-activity.png">
+</p>
+
